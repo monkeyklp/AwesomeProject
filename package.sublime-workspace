@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"br",
+				"browser"
+			],
+			[
+				"sc",
+				"scheme"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 437.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/MyConfiguration/klp13115/Desktop/delete-gradle.bat",
+		"/D/MyConfiguration/klp13115/Desktop/orderwriter/online/TrainOrderWriteOnlineFragment.java",
+		"/D/MyConfiguration/klp13115/Desktop/orderwriter/normal/TrainOrderWriteNormalFragment.java",
+		"/D/MyConfiguration/klp13115/Desktop/orderwriter/Base/TrainOrderWriteActivity.java",
+		"/D/MyConfiguration/klp13115/Desktop/orderwriter/Base/BaseTrainOrderWriteFragment.java",
+		"/E/workSpace_go/src/try/hello.go",
+		"/E/workSpace_go/hello.go",
+		"/E/workSpace/android-extension-library/build.gradle",
+		"/D/MyConfiguration/klp13115/Desktop/1. 【火车票】12306登录页",
+		"/E/Demo/ColorArcProgressBar/library/build.gradle",
+		"/D/反编译/Android反编译/Carbada_android_96999707/AndroidManifest.xml",
+		"/D/反编译/Android反编译/com.chebadahye.1609041202/AndroidManifest.xml",
+		"/D/MyConfiguration/klp13115/Desktop/ThreadWork",
+		"/E/workSpace/android-chebada/app/build.gradle",
+		"/D/MyConfiguration/klp13115/Desktop/改签的问题",
+		"/E/workSpace/android-chebada/android-common/build.gradle",
+		"/E/workSpace/android-chebada/android-project-common/build.gradle",
+		"/D/android_sdk/sources/android-22/android/webkit/WebViewClient.java",
+		"/E/Demo/ViewDemo/.gitignore",
+		"/E/Demo/RobolectricDemo/.gitignore",
+		"/E/workSpace/android-chebada/app/build/intermediates/classes/debug/com/chebada/train/login/TrainLoginActivity$1$1.class",
+		"/E/workSpace/android-chebada/app/build/intermediates/classes/debug/com/chebada/train/login/TrainVerifyActivity.class",
+		"/E/workSpace/android-chebada/app/build/intermediates/classes/debug/com/chebada/train/login/TrainVerifyActivity$1.class",
+		"/E/workSpace/android-chebada/app/build/intermediates/classes/debug/com/chebada/train/login/TrainLoginActivity.class",
+		"/E/workSpace/android-chebada/app/build/intermediates/classes/debug/com/chebada/train/login/TrainVerifyActivity$2.class",
+		"/E/workSpace/android-chebada/app/build/intermediates/classes/debug/com/chebada/train/login/TrainVerifyActivity$3.class",
+		"/E/workSpace/android-chebada/app/build/intermediates/classes/debug/com/chebada/train/login/TrainVerifyActivity$1$1.class",
+		"/E/workSpace/android-chebada/app/build/intermediates/classes/debug/com/chebada/train/login/TrainVerifyActivity$1$1$1.class",
+		"/C/Users/Administrator/Documents/QQEIM Files/2885194968/FileRecv/google代理/启用代理.bat",
+		"/E/workSpace/android-chebada/dependencies.gradle",
+		"/D/MyConfiguration/klp13115/.ssh/config",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/workSpace/android-chebada/build.gradle",
+		"/D/MyConfiguration/klp13115/Desktop/com.chebada.hprof",
+		"/E/Demo/GradleTest/build.gradle",
+		"/E/Demo/GradleDemo/build.gradle",
+		"/E/Demo/Gradle-Packer/markets.txt",
+		"/E/Demo/Gradle-Packer/build.gradle",
+		"/E/Demo/gradle-packer-plugin/plugin/build.gradle",
+		"/E/Demo/NuwaGradle/build.gradle",
+		"/E/Demo/GradlePlugin/.gitignore",
+		"/E/Demo/Dynamic tasks/build.gradle",
+		"/D/MyConfiguration/klp13115/Desktop/任务.txt",
+		"/E/Demo/Nuwa/gradle/wrapper/gradle-wrapper.properties",
+		"/E/Demo/gradle-learning/10-custom-plugin/create-plugin-in-project/buildSrc/src/main/groovy/davenkin/DateAndTimePlugin.groovy",
+		"/E/Demo/Nuwa/buildSrc/build.gradle",
+		"/E/Demo/Nuwa/build.gradle",
+		"/E/Demo/gradle-learning/10-custom-plugin/create-plugin-in-project/buildSrc/src/main/groovy/davenkin/DateAndTimePluginExtension.groovy",
+		"/E/Demo/gradle-learning/10-custom-plugin/create-plugin-in-project/build.gradle",
+		"/E/Demo/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/build.gradle",
+		"/E/Demo/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/free/java/com/udacity/gradle/flavorspecificactivity/MainActivity.java",
+		"/E/Demo/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/res/values/strings.xml",
+		"/E/Demo/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/free/res/values/strings.xml",
+		"/E/Demo/ud867/3.05-Exercise-ConfigureBuildTypes/app/build.gradle",
+		"/E/Demo/ud867/3.05-Exercise-ConfigureBuildTypes/app/solution.gradle",
+		"/E/Demo/ud867/3.02-Exercise-ImportAJavaProject/build.gradle",
+		"/E/Demo/ud867/3.02-Exercise-ImportAJavaProject/solution.gradle",
+		"/E/Demo/ud867/1.18-Exercise-ExploreTheBuildLifecycle/build.gradle",
+		"/E/Demo/ud867/1.18-Exercise-ExploreTheBuildLifecycle/solution.gradle",
+		"/E/Demo/ud867/1.17-Exercise-InvestigateLogging/build.gradle",
+		"/E/Demo/ud867/1.17-Exercise-InvestigateLogging/solution.gradle",
+		"/E/Demo/ud867/1.16-Exercise-CreateATaskType/build.gradle",
+		"/E/Demo/ud867/1.16-Exercise-CreateATaskType/solution.gradle",
+		"/E/Demo/ud867/1.14-Exercise-UseGradleProperties/solution.gradle",
+		"/E/Demo/ud867/1.14-Exercise-UseGradleProperties/gradle.properties",
+		"/E/Demo/ud867/1.14-Exercise-UseGradleProperties/build.gradle",
+		"/E/Demo/ud867/1.11-Exercise-ConfigureFileSystemTasks/build.gradle",
+		"/E/Demo/ud867/1.13-Demo-ParameterisingYourBuild/build.gradle",
+		"/E/Demo/ud867/1.13-Demo-ParameterisingYourBuild/gradle.properties",
+		"/E/Demo/ud867/1.12-Exercise-ExploreIncrementalBuilds/build.gradle",
+		"/D/MyConfiguration/klp13115/Desktop/gui-config.json",
+		"/E/Demo/ud867/1.10-Demo-InteractingWithTheFileSystem/build.gradle",
+		"/E/Demo/ud867/1.11-Exercise-ConfigureFileSystemTasks/solution.gradle",
+		"/E/Demo/ud867/1.08-Demo-TaskDependencies/build.gradle",
+		"/E/Demo/ud867/1.09-Exercise-ConfigureTaskDependencies/solution.gradle",
+		"/E/Demo/ud867/1.09-Exercise-ConfigureTaskDependencies/build.gradle",
+		"/E/Demo/ud867/1.04-Demo-GroovyClosuresAndObjects/build.gradle",
+		"/E/Demo/ud867/1.07-Exercise-ConfigureATask/solution.gradle",
+		"/E/Demo/ud867/1.07-Exercise-ConfigureATask/build.gradle",
+		"/E/Demo/VRWeatherParticles/README.md",
+		"/E/Demo/VRWeatherParticles/index.html",
+		"/E/Demo/AnimationDemo/.gitignore",
+		"/D/MyConfiguration/klp13115/Desktop/本周工作",
+		"/D/MyConfiguration/klp13115/Desktop/schem url hack test",
+		"/D/MyConfiguration/klp13115/Desktop/schem url hack test.html",
+		"/D/MyConfiguration/klp13115/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mPreviewSize",
+			"traincategoryList",
+			"help",
+			"grep",
+			"other tasks",
+			"putOn",
+			"loadTexture",
+			"               \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
