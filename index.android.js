@@ -13,9 +13,11 @@ import {
   ToastAndroid,
   View
 } from 'react-native';
-
+/*var { NativeModules } = require('react-native');
+*/
+import {Toast} from './toast';
+// var Toast = require('./toast');//通过路径引入toast.js  
 export default class AwesomeProject extends Component {
-
   render() {
     return (
       <View style={styles.container}>
@@ -27,11 +29,11 @@ export default class AwesomeProject extends Component {
         </Text>
         <Text style={styles.instructions}>
           Double tap R on your keyboard to reload,{'\n'}
-          Shake or press menu button for dev menu
+          Shake or press menu button for dev
         </Text>
         <Button title= 'click me'
-          onPress= {()=>   ToastAndroid.show(
-                'This is a toast with top gravity', ToastAndroid.SHORT)}/>
+          onPress= {()=> Toast.show(
+                'This is a toast with top gravity', Toast.SHORT)}/>
       </View>
     );
   }
