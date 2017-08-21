@@ -10,12 +10,13 @@ import {
   StyleSheet,
   Text,
   Button,
-  ToastAndroid,
   View
 } from 'react-native';
 /*var { NativeModules } = require('react-native');
 */
 import {Toast} from './toast';
+import greeting from './src/props'
+import bink from './src/state'
 // var Toast = require('./toast');//通过路径引入toast.js  
 export default class AwesomeProject extends Component {
   render() {
@@ -39,6 +40,7 @@ export default class AwesomeProject extends Component {
   }
 }
 
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -58,4 +60,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
+AppRegistry.registerComponent('AwesomeProject', () => bink);
