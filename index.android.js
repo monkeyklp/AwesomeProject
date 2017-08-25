@@ -17,6 +17,7 @@ import {
 import {Toast} from './toast';
 import greeting from './src/props'
 import bink from './src/state'
+import LotsOfStyles from './src/styles'
 // var Toast = require('./toast');//通过路径引入toast.js  
 export default class AwesomeProject extends Component {
   render() {
@@ -60,4 +61,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('AwesomeProject', () => bink);
+AppRegistry.registerComponent('AwesomeProject', () => LotsOfStyles);
