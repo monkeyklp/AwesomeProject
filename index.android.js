@@ -21,6 +21,7 @@ import LotsOfStyles from './src/styles'
 import flex from './src/flex'
 import textPut from './src/textInput'
 import list from './src/listview'
+import simpleApp from './src/app.js'
 // var Toast = require('./toast');//通过路径引入toast.js  
 export default class AwesomeProject extends Component {
   render() {
@@ -64,4 +65,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('AwesomeProject', () => list);
+AppRegistry.registerComponent('AwesomeProject', () => simpleApp);
