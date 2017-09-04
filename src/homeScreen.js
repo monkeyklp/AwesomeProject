@@ -1,8 +1,22 @@
 import React from 'react';
-import {Text, Button, View} from 'react-native';
+import {Text, Button, View, StyleSheet} from 'react-native';
+
+const styles = StyleSheet.create({
+    bigblue: {
+      color: 'blue',
+      fontWeight: 'bold',
+      fontSize: 30,
+    },
+    red: {
+      color: 'blue',
+      marginRight : 10,
+    },
+  });
+
 export class HomeScreen extends React.Component {
     static navigationOptions = {
-        title : 'welcome'
+        title : 'welcome',
+        headerRight : (<Text style={styles.red} >info</Text>)
     };
     render() {
         const {navigate} = this.props.navigation;
@@ -18,3 +32,5 @@ export class HomeScreen extends React.Component {
      
     }
 }
+
+

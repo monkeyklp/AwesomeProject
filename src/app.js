@@ -1,9 +1,13 @@
 import {HomeScreen} from './homeScreen'
-import {ChatScreen} from './chatScreen'
+import ChatScreen from './chatScreen'
 import { StackNavigator } from 'react-navigation';
 
 const SimpleApp = StackNavigator({
-    Home: {screen:HomeScreen},
+    Home: {
+        screen:HomeScreen,
+        navigationOptions: ({navigation}) => ({
+            title: 'inof',
+        }), },
     Chat: {screen:ChatScreen}
 });
 
