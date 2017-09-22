@@ -2,6 +2,14 @@ import React, { Component } from 'react';
 import { AppRegistry, SectionList, StyleSheet, Text, View } from 'react-native';
 
  class SectionListBasics extends Component {
+
+  pushScreen = () => {
+    this.props.navigator.push({
+      screen: 'example.SecondTabScreen',
+      title: 'Second',
+    });
+  };
+
   render() {
     return (
       <View style={styles.container}>
@@ -10,7 +18,7 @@ import { AppRegistry, SectionList, StyleSheet, Text, View } from 'react-native';
             {title: 'D', data: ['Devin']},
             {title: 'J', data: ['Jackson', 'James', 'Jillian', 'Jimmy', 'Joel', 'John', 'Julie']},
           ]}
-          renderItem={({item}) => <Text style={styles.item}>{item}</Text>}
+          renderItem={({item}) => <Text style={styles.item} onPress= {this.pushScreen}>{item}</Text>}
           renderSectionHeader={({section}) => <Text style={styles.sectionHeader}>{section.title}</Text>}
         />
       </View>

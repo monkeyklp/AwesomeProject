@@ -82,11 +82,10 @@ class ScreenAnimator {
                 break;
             }
             default: {
-                ObjectAnimator translationY = ObjectAnimator.ofFloat(screen, View.TRANSLATION_Y, this.translationY, 0);
-                translationY.setInterpolator(DECELERATE_INTERPOLATOR);
-                translationY.setDuration(DURATION);
-                alpha.setDuration(ALPHA_SHORT_DURATION);
-                set.playTogether(translationY, alpha);
+                ObjectAnimator translationX = ObjectAnimator.ofFloat(screen, View.TRANSLATION_X, this.translationX, 0);
+                translationX.setInterpolator(ACCELERATE_DECELERATE_INTERPOLATOR);
+                translationX.setDuration(DURATION);
+                set.play(translationX);
                 break;
             }
         }
@@ -126,12 +125,10 @@ class ScreenAnimator {
                 break;
             }
             default: {
-                ObjectAnimator translationY = ObjectAnimator.ofFloat(screen, View.TRANSLATION_Y, this.translationY);
-                translationY.setInterpolator(ACCELERATE_INTERPOLATOR);
-                translationY.setDuration(DURATION);
-                alpha.setStartDelay(ALPHA_START_DELAY);
-                alpha.setDuration(ALPHA_SHORT_DURATION);
-                set.playTogether(translationY, alpha);
+                ObjectAnimator translationX = ObjectAnimator.ofFloat(screen, View.TRANSLATION_X, this.translationX);
+                translationX.setInterpolator(ACCELERATE_INTERPOLATOR);
+                translationX.setDuration(DURATION);
+                set.play(translationX);
                 break;
             }
         }
