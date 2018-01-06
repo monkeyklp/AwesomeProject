@@ -52,7 +52,6 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 /_tests_
-/node_modules
 /.babelrc
 /.buckconfig
 /.flowconfig
