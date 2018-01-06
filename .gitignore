@@ -59,3 +59,4 @@ fastlane/screenshots
 yarm.lock
 /__tests__
 /.gitattributes
+/package.sublime-workspace.json
